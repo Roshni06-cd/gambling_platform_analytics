@@ -1,0 +1,6 @@
+game_category,total_sessions,unique_players,avg_session_minutes,avg_bets_per_session,bets_per_session_hour
+Sportsbook,17403,4856,39.31,2.4,3.67
+Slots,7766,3925,39.91,2.37,3.57
+Blackjack,3534,2552,40.08,2.38,3.57
+Roulette,3488,2514,40.46,2.42,3.59
+Live Casino,2809,2135,39.41,2.39,3.64
