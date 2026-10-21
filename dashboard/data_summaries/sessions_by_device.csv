@@ -1,0 +1,4 @@
+device,total_sessions,unique_players,avg_session_minutes,avg_bets_per_session,bets_per_session_hour
+Mobile,23673,4947,39.63,2.4,3.64
+Desktop,9470,4252,39.57,2.38,3.62
+Tablet,1857,1564,40.11,2.36,3.53
